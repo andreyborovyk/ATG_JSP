@@ -124,4 +124,5 @@
     </dsp:oparam>
   </dsp:droplet>
 </dsp:page>
+
 <%-- @version $Id: //edu/ILT-Courses/main/COMM/StudentFiles/COM/setup/copy-files/apps/MyStore/Storefront/j2ee-apps/Storefront/store.war/global/gadgets/priceRange.jsp#3 $$Change: 635816 $--%>
